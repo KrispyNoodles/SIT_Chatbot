@@ -1,0 +1,12 @@
+#header > img:nth-child(2) {
+    max-height: 60px !important;
+    margin-top: 35px; 
+    margin-left: 20px; 
+    padding: 5px;
+    background-color: #F5F5F5; 
+}
+
+/* after opening the sidebar */
+.css-14k6mw7 > img:nth-child(1) {
+    display: none !important;
+}

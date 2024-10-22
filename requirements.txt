@@ -11,3 +11,4 @@ redis
 langchain
 openai
 chainlit
+json

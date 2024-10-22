@@ -1,4 +1,5 @@
 python-dotenv
+telegram
 faiss-cpu
 redis
 langchain

@@ -2,6 +2,7 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import redis
 from dotenv import dotenv_values
 from langchain_google_community import GoogleSearchAPIWrapper
+import telebot
 
 # retrieving the env file
 env_vars = dotenv_values(".env")
@@ -31,3 +32,7 @@ r = redis.Redis(
 )
 
 REDIS_URL = env_vars["REDIS_URL"]
+
+# retrieving the API key
+tele_key=env_vars["API_KEY_TELE"]
+bot = telebot.TeleBot(tele_key,parse_mode=None)

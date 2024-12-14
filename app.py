@@ -1,5 +1,4 @@
 import chainlit as cl
-from dotenv import dotenv_values
 from langchain_core.messages import HumanMessage, AIMessage
 from langgraph.prebuilt import create_react_agent
 from langgraph.checkpoint.memory import MemorySaver
@@ -9,8 +8,6 @@ from tools.redis_tool import redis_tool
 from tools.google_tool import google_tool
 from config import model
 
-# retrieving the env file
-env_vars = dotenv_values(".env")
 
 # a potentional function yet to be built that retrieves the "thread_id"
 config_no = "abc123"

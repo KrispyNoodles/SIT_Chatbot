@@ -10,6 +10,7 @@ env_vars = dotenv_values(".env")
 # declaring the model and using the variables from the env file
 model = ChatOpenAI(
     api_key=env_vars["OPENAI_API_KEY"],
+    model="gpt-4o",
     temperature=0
 )
 

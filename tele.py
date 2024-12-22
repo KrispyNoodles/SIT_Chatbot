@@ -8,13 +8,15 @@ from utils import get_user_config, emoji_printer
 from config import bot
 from prompts import tele_system_prompt
 
+# name of telegram handle is @SIT_izen_bot
+
 memory = MemorySaver()
 
 # A list that holds all the tools that the agent can use
 tools = [redis_tool, google_tool]
 
 # This sets up a REACT agent that will handle the overall task execution
-agent_executor = create_react_agent(model, tools, checkpointer=memory)
+agent_executor = create_react_agent(model, tools, checkpointer=memory, debug=True)
 
 @bot.message_handler(func=lambda message: True)  # This listens to all messages
 def handle_all_messages(message):

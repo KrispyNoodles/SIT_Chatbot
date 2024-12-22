@@ -39,8 +39,9 @@ def emoji_printer(ai_reply, chat_id):
     
     try:
         # Extract the description from the output string (remove brackets)
-        description_to_find = ai_reply.split('[')[1].split(']')[0]
-        print(description_to_find)
+        description_to_find = ai_reply.split('[')[-1].split(']')[0]
+        print(f"description found is {description_to_find}")
+
         # Check if the description exists in the DataFrame and retrieve the File ID
         if description_to_find in emoji_df["Description"].tolist():
 

@@ -25,6 +25,7 @@ tools = [redis_tool, google_tool]
 # This sets up a REACT agent that will handle the overall task execution
 agent_executor = create_react_agent(model, tools, checkpointer=memory, debug=True)
 
+
 # on_chat_start decorator is used when the chat bot has started
 @cl.on_chat_start
 async def on_chat_start():
@@ -37,7 +38,7 @@ async def on_message(message: cl.Message):
     response = agent_executor.invoke(
         
         # Including the system prompt and and message entered by the user to be included into the prompt
-        {"messages": [AIMessage(system_prompt), HumanMessage(content=message.content)]},
+        {"messages":  [AIMessage(system_prompt), HumanMessage(content=message.content)]},
 
         # Indicating the chat conversation history of the user
         config=config,

@@ -1,5 +1,5 @@
 from langchain_redis import RedisVectorStore
-from config import embeddings, r, REDIS_URL
+from config import embeddings, REDIS_URL
 
 vector_store = RedisVectorStore(
     embeddings,

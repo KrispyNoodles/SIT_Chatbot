@@ -45,6 +45,12 @@ def handle_all_messages(message):
         result_clean = emoji_printer(result.content, chat_id)
 
         # printing the result through telegram
-        bot.send_message(message.chat.id, result_clean, reply_to_message_id=message.message_id )    
+        bot.send_message(message.chat.id, result_clean, reply_to_message_id=message.message_id )
+
+    # Summmary function implementation
+    summary_runnable = RunnableLambda(summary_fn)
+    messages = summary_runnable.invoke(messages)
+    
+    print(f"Length of messages is {len(messages)}")
         
 bot.infinity_polling()

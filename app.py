@@ -53,9 +53,8 @@ async def on_message(message: cl.Message):
         print(result.content)
         await cl.Message(content=result.content).send()
 
-    # converting the function into a runnable
+    # Summmary function implementation
     summary_runnable = RunnableLambda(summary_fn)
-
-    # invoking the runnables
     messages = summary_runnable.invoke(messages)
+    
     print(f"Length of messages is {len(messages)}")

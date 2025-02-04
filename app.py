@@ -7,6 +7,7 @@ from prompts import system_prompt
 from tools.redis_tool import redis_tool
 from tools.google_tool import google_tool
 from config import model
+from utils import summary_fn
 
 
 # a potentional function yet to be built that retrieves the "thread_id"
@@ -51,3 +52,10 @@ async def on_message(message: cl.Message):
     if isinstance(result, AIMessage):
         print(result.content)
         await cl.Message(content=result.content).send()
+
+    # converting the function into a runnable
+    summary_runnable = RunnableLambda(summary_fn)
+
+    # invoking the runnables
+    messages = summary_runnable.invoke(messages)
+    print(f"Length of messages is {len(messages)}")

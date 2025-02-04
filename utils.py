@@ -65,3 +65,39 @@ def emoji_printer(ai_reply, chat_id):
         print("No valid description in the AI reply.")
         
     return output_cleaned
+
+from prompts import system_prompt, summary_prompt
+from config import model
+from langchain_core.messages import SystemMessage
+
+def summary_fn(messages):
+    
+    # length of conversation before the function is used
+    summary_len = 6
+
+    if len(messages)>=summary_len:
+
+        print("summary_fn called")
+
+        summary_prompter = SystemMessage(content=summary_prompt)
+        
+        # replacing previous system prompt with summary system prompt
+        messages[0] = summary_prompter
+        
+        # print(f"Messages history is: {messages}")
+
+        # creating a summary from the llm
+        summary = model.invoke(messages)
+        
+        print(summary)
+        
+        # print(f"Summary created is: {summary}")
+
+        # clearing the history and creating a new chat history, appending the summary
+        messages = [SystemMessage(content=system_prompt)]
+        messages.append(summary)
+    
+        return messages
+    
+    else:
+        return messages

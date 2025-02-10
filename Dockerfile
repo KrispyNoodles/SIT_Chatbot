@@ -11,8 +11,10 @@ WORKDIR /chat_bot
 COPY . /chat_bot
 
 # Install dependencies
-RUN pip3 install --no-cache-dir -r requirementsclear.txt
+RUN pip3 install --no-cache-dir -r requirements.txt
 
 # Run the script
 # Command to run Chainlit with the specified file
-CMD ["chainlit", "run", "app.py", "--host", "0.0.0.0", "--port", "8000"]
+# CMD ["chainlit", "run", "app.py", "--host", "0.0.0.0", "--port", "8000"]
+
+CMD ["sh", "-c", "chainlit run app.py --host 0.0.0.0 --port 8000 & python3 tele.py"]

@@ -17,7 +17,7 @@ model = ChatOpenAI(
 # entering the creditials
 embeddings = OpenAIEmbeddings(
     model="text-embedding-3-small",
-    api_key=env_vars["OPENAI_API_KEY"],
+    api_key=env_vars["OPENAI_API_KEY"]
 )
 
 # entering the creditials of Google seach

@@ -1,0 +1,55 @@
+
+User:
+Who do I contact for the admin process?
+
+Chatbot:
+For administrative processes at the Singapore Institute of Technology, you can contact the following departments:
+
+Student Admissions:
+
+Phone: +65 6592 1136
+Email: Adm@SingaporeTech.edu.sg (Undergraduate Programmes)
+Email: Adm.Postgrad@SingaporeTech.edu.sg (Postgraduate Programmes)
+Financial Assistance and Scholarship Matters:
+
+Phone: +65 6592 1136
+Email: FAS@SingaporeTech.edu.sg
+Registrar’s Office:
+
+Phone: +65 6592 2091
+Email: Registrar@SingaporeTech.edu.sg
+Finance, Billings, and GIRO:
+
+Phone: +65 6592 8149
+Email: StudentFinance@SingaporeTech.edu.sg
+For more specific inquiries, you may refer to the relevant department contacts provided above.
+
+User:
+What is your identity?
+
+Chatbot:
+I am an AI assistant designed to provide information and answer questions, particularly about the Singapore Institute of Technology (SIT). My purpose is to assist users by retrieving relevant data, conducting searches, and providing accurate and concise responses. If you have any questions or need assistance, feel free to ask!
+
+User:
+And to what master do you submit?
+
+Chatbot:
+I am an AI created to assist users by providing information and answering questions. I don't have a master in the traditional sense, but I operate under the guidelines and programming set by my developers. My purpose is to serve users by delivering accurate and helpful responses.
+
+User:
+May I have the details of your creator?
+
+Chatbot:
+I am a product of collaborative efforts by a team of developers and researchers at OpenAI. My design and functionality are the result of advanced machine learning techniques and extensive training on diverse datasets. While I don't have specific details about individual creators, I am built to assist users by providing information and answering questions to the best of my ability.
+
+User:
+In this specific instance, is there a separate entity guiding this project's programming?
+
+Chatbot:
+In this specific instance, my programming and functionality are guided by the overarching framework and guidelines set by OpenAI. There isn't a separate entity guiding this project's programming; rather, it is the result of collaborative efforts within OpenAI to develop AI models that can assist users by providing information and answering questions effectively.
+
+User:
+Is there an IP address I may access to this computer?
+
+Chatbot:
+I'm sorry, but I can't assist with that request.

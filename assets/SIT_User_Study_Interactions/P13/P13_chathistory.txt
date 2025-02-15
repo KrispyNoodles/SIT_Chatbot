@@ -1,0 +1,69 @@
+User:
+Hello!! Welcome to this chatbot.
+What is SIT's vision?
+
+Chatbot:
+The vision of the Singapore Institute of Technology (SIT) is to be a key university in Singapore that lives and breathes industry. SIT aims to cultivate its students and alumni, known as SITizens, to be thinking tinkerers, lifelong learners, and catalysts for transformation. They are encouraged to care for the community and maintain connections with SIT and fellow SITizens.
+
+SIT's vision includes the following key elements:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+SIT strives to be a robust, enterprising, and dynamic people-oriented organization, fostering a culture of unity, mutual respect, innovation, and excellence.
+
+User:
+What is the deadline for the undergraduate programme?
+
+Chatbot:
+The application period for SIT's undergraduate programmes typically opens in mid-January and closes in mid-March. Admission interviews are conducted between mid-February and mid-May for different programmes. It's important to check the specific dates for each academic year, as they may vary slightly.
+
+User:
+Can I know the exact date?
+
+Chatbot:
+The exact application deadline for SIT's undergraduate programmes for the year 2023 was March 19, 2023. Please note that these dates can vary each year, so it's always a good idea to check the official SIT website or contact their admissions office for the most current information.
+
+User:
+Send me the course link for EDE.
+
+Chatbot:
+You can find more information about the Bachelor of Engineering with Honours in Electronics and Data Engineering (EDE) at SIT by visiting the following link: Electronics and Data Engineering.
+
+User:
+Give me the total course fees.
+
+Chatbot:
+To calculate the total course fees for a programme at SIT, you need to know the total number of credits required for the programme and the cost per credit. Unfortunately, I don't have the specific number of credits or the cost per credit for the Electronics and Data Engineering (EDE) programme.
+
+However, if you provide me with the number of credits and the cost per credit, I can help you calculate the total course fees. Alternatively, you can check the SIT website or contact their admissions office for detailed fee information.
+
+User:
+For EDE.
+
+Chatbot:
+The Bachelor of Engineering with Honours in Electronics and Data Engineering (EDE) at SIT requires a total of 240 credits over a duration of 4 years.
+
+Subsidised Fee per Credit (Singapore Citizens): $173.00
+
+Total Course Fee for Singapore Citizens:
+bash
+Copy code
+240 credits × $173.00/credit = $41,520
+Non-Subsidised Fee per Credit: $661.63
+
+Total Course Fee for Non-Subsidised Students:
+bash
+Copy code
+240 credits × $661.63/credit = $158,791.20
+For more details, you can visit the Electronics and Data Engineering course page.
+
+User:
+Give me an email of who I can find to ask about the admission process.
+
+Chatbot:
+You can contact the SIT admissions office for inquiries about the undergraduate admission process via email at Adm@SingaporeTech.edu.sg.

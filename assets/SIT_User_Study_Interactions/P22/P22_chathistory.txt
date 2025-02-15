@@ -1,0 +1,65 @@
+User:
+Hello!! Welcome to this chatbot.
+What is SIT's vision?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that lives and breathes industry. It aims for its students and alumni, collectively known as SITizens, to be thinking tinkerers, lifelong learners, and catalysts for transformation who care for the community and stay connected to SIT and their fellow SITizens.
+
+SIT's goals include:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+User:
+Application deadline for SIT?
+
+Chatbot:
+The application deadlines for the Singapore Institute of Technology (SIT) are as follows:
+
+Mid-January to Mid-March: Application period opens.
+April to May: Check your admissions application outcome. Students awarded scholarships will receive their offers concurrently.
+July: By the joint acceptance deadline, if your application is successful, you can accept the offer.
+For specific degree programs, you may need to submit portfolios or essays and/or be assessed through written or technical tests.
+
+User:
+Exact date?
+
+Chatbot:
+The exact application period for SIT in 2023 was from January 8 to March 19.
+
+Please note that these dates are subject to change, so it's always a good idea to check the official SIT website for the most current information.
+
+User:
+Cost for Electronics and Data Engineering?
+
+Chatbot:
+The cost for the BEng (Hons) in Electronics and Data Engineering at SIT is as follows:
+
+Total Credits: 240
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+Non-subsidised Fee per Credit (including GST): $661.63
+To calculate the total cost:
+
+Total Cost for Singapore Citizens:
+bash
+Copy code
+240 credits × $173.00 = $41,520
+For more information, you can visit the course page.
+
+User:
+What is the website page of the course?
+
+Chatbot:
+You can find more information about the BEng (Hons) in Electronics and Data Engineering course on the SIT website.
+
+User:
+Provide me the admission email.
+
+Chatbot:
+For undergraduate admissions at the Singapore Institute of Technology (SIT), you can contact the admissions office via email at: Adm@SingaporeTech.edu.sg.
+
+For postgraduate admissions, the email is: Adm.Postgrad@SingaporeTech.edu.sg.

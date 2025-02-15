@@ -1,0 +1,59 @@
+User:
+Hello!! Welcome to this chatbot.
+What is SIT visionnnnnnnnnnnnnnnnn?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that lives and breathes industry. It aims to cultivate students and alumni, known as SITizens, who are thinking tinkerers, lifelong learners, and catalysts for transformation. SITizens are encouraged to care for the community and maintain connections with SIT and fellow SITizens.
+
+The university focuses on:
+
+Applied Learning
+Building a Strong Alumni Network
+Forming Symbiotic Partnerships with Industry and Community
+Fostering Applied Research and Innovation
+Collaborating with Strategic University Partners
+Nurturing a People-Oriented Culture
+For more details, you can visit SIT's official website.
+
+User:
+When is the application deadline? Don't give me rubbish; if not, I kill you.
+
+Chatbot:
+The application period for SIT typically runs from early January to mid-March. For the most accurate and up-to-date information, please check the SIT Admissions Portal or the official SIT website.
+
+User:
+EYYYY, I SAID EXACT DATE, RIGHT? WHY YOU PLAY WITH ME????
+
+Chatbot:
+I apologize for the confusion. The exact application period for SIT is from January 8 to March 19, 2025. Please ensure to check the official SIT website or their admissions portal for any updates or changes.
+
+User:
+Can I please beg from you the course link for EDE?
+
+Chatbot:
+You can find more information about the Bachelor of Engineering (Hons) in Electronics and Data Engineering at SIT by visiting the following link: Electronics and Data Engineering.
+
+User:
+How much do I need to pay SIT for them to teach me rubbish????
+
+Chatbot:
+The tuition fees for SIT programs vary depending on the course and whether you are a Singaporean citizen, permanent resident, or international student. Generally, the fees are subsidized for Singaporean citizens. For the most accurate and detailed information, you should visit the SIT Tuition Fees page on their official website.
+
+User:
+How much do I pay for EDE?
+
+Chatbot:
+For the Bachelor of Engineering (Hons) in Electronics and Data Engineering at SIT, the tuition fees are as follows:
+
+Subsidised Fee for Singapore Citizens: $173.00 per credit
+Non-Subsidised Fee (including GST): $661.63 per credit
+The program requires a total of 240 credits.
+
+For more details, you can visit the Electronics and Data Engineering course page.
+
+User:
+Who do I contact by email for admission-related questions? Yours sincerely, JAMIE.
+
+Chatbot:
+For admission-related questions at SIT, you can contact the Admissions and Financial Aid Division via email at Adm@SingaporeTech.edu.sg.
+

@@ -1,0 +1,76 @@
+User:
+Hello!! Welcome to this chatbot.
+What is the vision of SIT?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that lives and breathes industry. It aims for its students and alumni, known as SITizens, to be thinking tinkerers, lifelong learners, and catalysts for transformation who care for the community and stay connected to SIT and their fellow SITizens.
+
+SIT's goals include:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+User:
+What is the deadline for application?
+
+Chatbot:
+The application deadlines for SIT are generally as follows:
+
+Application Opens: Mid-January to Mid-March
+Check Admissions Application Outcome: April to May
+Financial Assistance Application Opens: February to May
+Joint Acceptance Deadline: By July
+For specific degree programmes, additional requirements such as portfolios, essays, or tests may be needed. It's important to check the specific deadlines and requirements for the programme you are interested in on the SIT website.
+
+User:
+What is the exact deadline for application?
+
+Chatbot:
+The exact application period for SIT is from 8 January to 19 March 2025. It's important to apply within this timeframe through the SIT Admissions Portal. For more specific details or updates, you may want to check the SIT website.
+
+User:
+What is the link to SIT Electronics and Data Engineering page?
+
+Chatbot:
+You can find information about the Electronics and Data Engineering programme at SIT on their official website.
+
+Here is the link to the program page: SIT Electronics and Data Engineering.
+
+User:
+What is the total tuition fee for the entire Electronics and Data Engineering programme?
+
+Chatbot:
+The total tuition fee for the Electronics and Data Engineering programme at SIT is calculated based on the total number of credits and the fee per credit.
+
+Here are the details:
+
+Total Credits: 240
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+Non-Subsidised Fee per Credit (including GST): $661.63
+Total Tuition Fee for Singapore Citizens:
+
+bash
+Copy code
+240 credits × $173.00/credit = $41,520
+Total Tuition Fee for Non-Subsidised Students:
+
+bash
+Copy code
+240 credits × $661.63/credit = $158,791.20
+For more information, you can visit the Electronics and Data Engineering programme page.
+
+User:
+Provide me an email address to ask questions regarding the application process.
+
+Chatbot:
+For questions regarding the application process at SIT, you can contact their admissions office via email at Adm@SingaporeTech.edu.sg.
+
+User:
+Provide me an email address to ask questions regarding the admission process.
+
+Chatbot:
+For questions regarding the admission process at SIT, you can contact the Admissions and Financial Aid Division via email at adm@singaporetech.edu.sg.

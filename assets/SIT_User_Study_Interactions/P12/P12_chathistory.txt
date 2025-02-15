@@ -1,0 +1,56 @@
+User:
+Hello!! Welcome to this chatbot.
+What is Singapore Tech's vision and mission?
+
+Chatbot:
+The Singapore Institute of Technology (SIT) has a clear vision and mission:
+
+Vision: SIT aims to be a premier University of Applied Learning, envisioned as a key university in Singapore that lives and breathes industry. It focuses on creating thinking tinkerers, lifelong learners, and catalysts for transformation who care for the community and stay connected to SIT and their fellow SITizens. SIT emphasizes applied learning, a strong alumni network, symbiotic partnerships with industry and community, applied research and innovation, strategic university partners, and a people-oriented culture.
+
+Mission: SIT's mission is to maximize the potential of its learners and to innovate with industry through an integrated applied learning and research approach. This mission is aimed at contributing to the development of a skilled workforce that propels Singapore’s economy forward.
+
+These elements are woven into every aspect of SIT's work, reflecting its commitment to impacting industry and driving change in the community.
+
+User:
+What is the deadline for this undergraduate program?
+
+Chatbot:
+Could you please specify which undergraduate program you are referring to? This will help me provide you with the most accurate information regarding the application deadline.
+
+User:
+Electronic and Data Engineering.
+
+Chatbot:
+The application deadline for the Bachelor of Engineering with Honours in Electronics and Data Engineering program at the Singapore Institute of Technology (SIT) is February 9, 2024.
+
+For more details about the program, you can visit the SIT Electronics and Data Engineering program page.
+
+User:
+What is the application deadline for applying to SIT?
+
+Chatbot:
+The application period for the Singapore Institute of Technology (SIT) for the 2024 academic year is from January 8, 2024, to March 19, 2024. All applications and supporting documents must be submitted online during this period.
+
+For more details, you can visit the SIT Admissions Portal.
+
+User:
+Can I have the course link for Electronics and Data Engineering in SIT?
+
+Chatbot:
+Certainly! You can find more information about the Bachelor of Engineering with Honours in Electronics and Data Engineering program at SIT by visiting the following link: Electronics and Data Engineering at SIT.
+
+User:
+Can I have the course fees and credit for this program?
+
+Chatbot:
+The Bachelor of Engineering with Honours in Electronics and Data Engineering program at SIT requires a total of 240 credits.
+
+Subsidized Fee per Credit (Singapore Citizens): $173.00
+Total Cost for Singapore Citizens: 240 credits * $173.00 = $41,520
+Please note that fees may vary for non-subsidized students or those with different residency statuses.
+
+User:
+Can I have the email for queries?
+
+Chatbot:
+For queries related to the Bachelor of Engineering with Honours in Electronics and Data Engineering program at SIT, you can contact them via email at admissions@singaporetech.edu.sg. This is the general admissions email, and they should be able to direct your query to the appropriate department.

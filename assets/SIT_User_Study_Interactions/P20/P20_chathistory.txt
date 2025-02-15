@@ -1,0 +1,65 @@
+User:
+Hello!! Welcome to this chatbot.
+What’s SIT's vision?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that integrates closely with industry. It aims to cultivate students and alumni, known as SITizens, who are innovative thinkers, lifelong learners, and catalysts for transformation. These individuals are expected to care for the community and maintain strong connections with SIT and fellow SITizens.
+
+The vision encompasses several key goals:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+These elements collectively aim to foster a dynamic and innovative environment that supports both personal and professional growth.
+
+User:
+What’s the deadline for undergrad application?
+
+Chatbot:
+The application period for undergraduate admissions at the Singapore Institute of Technology (SIT) typically opens from mid-January to mid-March. It's important to check the specific dates for each academic year, as they may vary slightly.
+
+User:
+Exact date for 2025?
+
+Chatbot:
+The application period for undergraduate admissions at the Singapore Institute of Technology (SIT) for the year 2025 is from 8 January to 19 March 2025.
+
+User:
+Course link for Electronics and Data Engineering?
+
+Chatbot:
+You can find more information about the Bachelor of Engineering with Honours in Electronics and Data Engineering program offered by SIT and the Technical University of Munich on SIT's official website.
+
+Here is the course link: Electronics and Data Engineering at SIT.
+
+User:
+What are the costs of the whole course?
+
+Chatbot:
+The total cost for the Bachelor of Engineering with Honours in Electronics and Data Engineering at SIT is calculated based on the number of credits and the fee per credit. The program requires 240 credits.
+
+For Singapore Citizens:
+
+Subsidised fee per credit: $173.00
+Total cost:
+bash
+Copy code
+240 credits × $173.00 = $41,520
+For Non-subsidised Students (including GST):
+
+Fee per credit: $661.63
+Total cost:
+bash
+Copy code
+240 credits × $661.63 = $158,791.20
+For more details, you can visit the Electronics and Data Engineering course page.
+
+User:
+What’s the email address for me to ask more about applications?
+
+Chatbot:
+For inquiries about undergraduate applications at the Singapore Institute of Technology (SIT), you can contact the admissions office via email at Adm@SingaporeTech.edu.sg.

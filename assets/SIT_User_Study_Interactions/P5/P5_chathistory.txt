@@ -1,0 +1,79 @@
+User:
+Can you give me course fee total?
+
+Chatbot:
+To calculate the total course fee, you need to know the total number of credits required for the course and the cost per credit. Once you have these details, you can multiply the total number of credits by the cost per credit to get the total course fee.
+
+For example:
+If a course requires 240 credits and each credit costs $173.00, the total course fee would be:
+
+Total Course Fee
+=
+240
+ 
+credits
+×
+173.00
+/
+credit
+=
+41
+,
+520
+Total Course Fee=240credits×173.00/credit=41,520
+If you provide the specific course details, I can help you calculate the total fee.
+
+User:
+I mean EDE course.
+
+Chatbot:
+The Bachelor of Engineering with Honours in Electronics and Data Engineering (EDE) at the Singapore Institute of Technology (SIT) has the following fee structure:
+
+Total Credits: 240 credits
+Course Duration: 4 years
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+Non-subsidised Fee per Credit (including GST): $661.63
+To calculate:
+
+For Singapore Citizens:
+
+Total Course Fee
+=
+240
+ 
+credits
+×
+173.00
+/
+credit
+=
+41
+,
+520
+Total Course Fee=240credits×173.00/credit=41,520
+For Non-subsidised Fees:
+
+Total Course Fee
+=
+240
+ 
+credits
+×
+661.63
+/
+credit
+=
+158
+,
+791.20
+Total Course Fee=240credits×661.63/credit=158,791.20
+Please verify these details with SIT for the most accurate and up-to-date information.
+
+User:
+I want admissions email to SIT EDE.
+
+Chatbot:
+For admissions inquiries related to the Electronics and Data Engineering program at the Singapore Institute of Technology (SIT), you can contact their admissions office. Unfortunately, I couldn't find a specific email for the EDE program, but you can reach out to their general admissions or IT helpdesk for guidance:
+
+SIT IT Helpdesk Email: ITHelpdesk@SingaporeTech.edu.sg
+For specific admissions inquiries, you might want to visit the SIT official website or contact their main admissions office directly.

@@ -1,0 +1,91 @@
+User:
+Hello!! Welcome to this chatbot.
+What is SIT's vision?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that lives and breathes industry. It aims to cultivate students and alumni, known as SITizens, to be thinking tinkerers, lifelong learners, and catalysts for transformation. SITizens are encouraged to care for the community and maintain connections with SIT and fellow SITizens.
+
+The university's goals include:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+These elements collectively contribute to SIT's vision of fostering a dynamic and innovative educational environment.
+
+User:
+What is the undergraduate application deadline?
+
+Chatbot:
+The application period for SIT's undergraduate programs typically runs from early January to mid-March.
+
+For the Academic Year 2023, the online application closed on March 19, 2023.
+It's important to check the specific dates for each year as they may vary slightly.
+
+User:
+Course link for EDE?
+
+Chatbot:
+I couldn't find a specific course link for "Engineering Design and Innovation (EDE)." However, here are some related engineering courses at SIT:
+
+BEng (Hons) in Electronics and Data Engineering
+BEng (Hons) in Computer Engineering
+BEng (Hons) in Aerospace Engineering
+If you are looking for a specific course, please let me know, and I can assist further!
+
+User:
+What is the course fee for undergraduate programs?
+
+Chatbot:
+Here are the undergraduate course fees for some engineering programs at SIT:
+
+BEng (Hons) in Computer Engineering:
+
+Total Credits: 180
+Subsidised Fee per Credit (Singapore Citizens): $127.50
+Non-subsidised Fee per Credit (including GST): $555.90
+BEng (Hons) in Civil Engineering:
+
+Total Credits: 180
+Subsidised Fee per Credit (Singapore Citizens): $173.00
+Non-subsidised Fee per Credit (including GST): $661.63
+BEng (Hons) in Mechanical Engineering:
+
+Total Credits: 180
+Subsidised Fee per Credit (Singapore Citizens): $173.00
+Non-subsidised Fee per Credit (including GST): $661.63
+To calculate the total course fee, multiply the total number of credits by the fee per credit. For example, for the BEng (Hons) in Civil Engineering, the total subsidised fee would be:
+
+bash
+Copy code
+180 credits × $173.00 = $31,140
+User:
+What is the course fee for EDE?
+
+Chatbot:
+The course fee for the BEng (Hons) in Electronics and Data Engineering at SIT is as follows:
+
+Total Credits: 240
+
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+
+Total Subsidised Fee:
+bash
+Copy code
+240 credits × $173.00 = $41,520
+Non-subsidised Fee per Credit (including GST): $661.63
+
+Total Non-subsidised Fee:
+bash
+Copy code
+240 credits × $661.63 = $158,791.20
+For more information, you can visit the Electronics and Data Engineering course page.
+
+User:
+What is the email for the admission process?
+
+Chatbot:
+For inquiries regarding the admission process at SIT, you can contact the Admissions and Financial Aid Office via email at Adm@SingaporeTech.edu.sg or by phone at 6592 1136.

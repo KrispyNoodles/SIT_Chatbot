@@ -1,0 +1,69 @@
+Chatbot:
+Hello!! Welcome to this chatbot.
+
+User:
+What’s SIT’s vision?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that is deeply integrated with industry. It aims to cultivate students and alumni, known as SITizens, who are thinking tinkerers, lifelong learners, and catalysts for transformation. These individuals are expected to care for the community and maintain strong connections with SIT and fellow SITizens.
+
+SIT's vision includes:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+This vision reflects SIT's commitment to fostering a dynamic and innovative environment that supports both personal and professional growth.
+
+User:
+What is the application deadline for undergraduate programs at SIT?
+
+Chatbot:
+The application deadlines for undergraduate programs at the Singapore Institute of Technology (SIT) are as follows:
+
+Application Opens: Mid-January to Mid-March
+Check Admissions Application Outcome: April to May
+Accept Offer: By the Joint Acceptance Deadline
+Please note that specific degree programs may require additional submissions such as portfolios or essays and may involve written or technical tests. Always check the specific requirements for your desired program.
+
+User:
+Exact date?
+
+Chatbot:
+The application period for undergraduate programs at the Singapore Institute of Technology (SIT) for the 2025 intake is from 8 January to 19 March 2025.
+
+User:
+What is the course link for the EDE course?
+
+Chatbot:
+The course link for the BEng (Hons) in Electronics and Data Engineering (EDE) at SIT is here.
+
+User:
+What is the total course fee cost? Both credits and cost per credit.
+
+Chatbot:
+For the BEng (Hons) in Electronics and Data Engineering at SIT:
+
+Total Credits: 240
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+Non-subsidised Fee per Credit (including GST): $661.63
+To calculate the total course fee:
+
+Subsidised Total Cost: 240 credits * $173.00 = $41,520
+Non-subsidised Total Cost: 240 credits * $661.63 = $158,791.20
+These calculations provide the total cost for the entire course based on the fee per credit.
+
+User:
+Email to ask about the admission process?
+
+Chatbot:
+For inquiries about the admission process for undergraduate programs at the Singapore Institute of Technology (SIT), you can contact the admissions office via email at: Adm@SingaporeTech.edu.sg.
+
+User:
+An email that I can reach out to, to find out more about the application process?
+
+Chatbot:
+You can reach out to the admissions office at the Singapore Institute of Technology (SIT) for more information about the application process via email at: Adm@SingaporeTech.edu.sg.

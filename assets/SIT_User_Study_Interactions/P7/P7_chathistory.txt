@@ -1,0 +1,113 @@
+Chatbot:
+Hello!! Welcome to this chatbot.
+
+User:
+What is SIT's vision?
+
+Chatbot:
+The vision of the Singapore Institute of Technology (SIT) is to be a key university in Singapore that lives and breathes industry, with its students and alumni, collectively known as SITizens, being integral to this vision.
+
+User:
+Tell me more.
+
+Chatbot:
+The Singapore Institute of Technology (SIT) envisions itself as a pivotal university in Singapore that is deeply integrated with industry. This vision is reflected in its commitment to applied learning and research, which aims to maximize the potential of its learners and foster innovation in collaboration with industry partners.
+
+SIT's core values include:
+
+Purpose and Agility: Focusing on meaningful goals and being adaptable to change.
+Respect and Sustainability: Valuing diversity and promoting sustainable practices.
+Integrity and Excellence: Upholding ethical standards and striving for high-quality outcomes.
+SITizens, the term used for SIT's students and alumni, are central to this vision, embodying the university's values and contributing to its mission of industry collaboration and societal impact.
+
+User:
+Show all of SIT's vision.
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that is deeply integrated with industry. The vision encompasses several key elements:
+
+Thinking Tinkerers and Lifelong Learners: Innovative individuals committed to lifelong learning and catalyzing transformation.
+Community Connection: Encouraging SITizens to care for the community and maintain strong alumni connections.
+Applied Learning: Practical, hands-on learning experiences aligned with industry needs.
+Strong Alumni Network: A robust support network among graduates and the university.
+Symbiotic Partnership with Industry and Community: Collaborative efforts with industry and the community.
+Applied Research & Innovation: Research with practical applications driving innovation.
+Strategic University Partners: Collaborating with universities to enhance education and research opportunities.
+People-oriented Culture: A respectful and innovative culture fostering continuous improvement.
+A Living Lab: The university as a testing ground for new ideas and technologies.
+User:
+What is the application deadline?
+
+Chatbot:
+The application deadlines for the Singapore Institute of Technology (SIT) are as follows:
+
+Application Opens: Mid-January to Mid-March
+SIT Scholarship Application Opens: April to May
+Check Admissions Application Outcome: July
+Financial Assistance Application Opens: February to May
+For specific degree programs, additional requirements such as portfolios, essays, or assessments through written or technical tests may be needed.
+
+User:
+Specific date?
+
+Chatbot:
+The specific application period for the Singapore Institute of Technology (SIT) for the academic year 2023 was from January 8 to March 19, 2023. For the most accurate and updated information, it's always best to check directly on the SIT Admissions Portal.
+
+User:
+Electronic and Data Engineering course link?
+
+Chatbot:
+You can find more information about the Bachelor of Engineering with Honours in Electronics and Data Engineering program offered by SIT in collaboration with the Technical University of Munich on their official website. Here is the link to the course page.
+
+User:
+Total course fee per credit?
+
+Chatbot:
+The total course fee per credit for the Bachelor of Engineering with Honours in Electronics and Data Engineering at SIT is as follows:
+
+Subsidised Fee for Singapore Citizens: $173.00 per credit
+Non-subsidised Fee (including GST): $661.63 per credit
+The program requires a total of 240 credits over a duration of 4 years.
+
+User:
+Contact for this course application?
+
+Chatbot:
+For inquiries regarding the Electronics and Data Engineering course at SIT, you can contact the IT Helpdesk for assistance with SIT email/account access and software licenses:
+
+Phone: +65 6592 8511
+Email: ITHelpdesk@SingaporeTech.edu.sg
+For more specific course-related inquiries, you may want to visit the SIT website or contact their admissions office directly through their official contact channels.
+
+User:
+Email for application details?
+
+Chatbot:
+For inquiries related to the application details for the Electronics and Data Engineering course at SIT, you can contact the IT Helpdesk:
+
+Email: ITHelpdesk@SingaporeTech.edu.sg
+For specific application-related questions, it is advisable to visit the SIT website or contact their admissions office directly.
+
+User:
+Who can I request for course information?
+
+Chatbot:
+For course information regarding the Electronics and Data Engineering program at SIT, you can:
+
+Admissions Office: Contact SIT's admissions office for general inquiries.
+Course Coordinator or Department: If available, contact the course coordinator for detailed program insights.
+Official SIT Website: Visit the official SIT website for program details, FAQs, and contact information.
+Email Contact: Use general inquiry emails like ITHelpdesk@SingaporeTech.edu.sg to have your query directed to the appropriate department.
+User:
+Give me the admissions contact details.
+
+Chatbot:
+Here are the admissions contact details for the Singapore Institute of Technology (SIT):
+
+Address: SIT@Dover, 10 Dover Drive, Singapore 138683
+Main Line: +65 6592 1189
+Student Admissions: +65 6592 1136
+Email for Undergraduate Programmes: Adm@SingaporeTech.edu.sg
+Email for Postgraduate Programmes: Adm.Postgrad@SingaporeTech.edu.sg
+For further assistance, visit their official website or contact them directly.
+

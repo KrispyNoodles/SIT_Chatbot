@@ -1,0 +1,89 @@
+User: Hello!! Welcome to this chatbot
+Chatbot: Hello!! Welcome to this chatbot
+
+User: What is SIT's vision?
+Chatbot: SIT's vision is to be a key university in Singapore that is deeply integrated with industry. It aims to cultivate students and alumni, known as SITizens, who are innovative thinkers, lifelong learners, and catalysts for transformation. These SITizens are expected to care for the community and maintain strong connections with SIT and each other.
+
+The vision includes the following goals:
+
+Applied Learning
+A Strong Alumni Network
+Symbiotic Partnerships with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+A People-oriented Culture
+Functioning as a Living Lab
+User: What is the application deadline?
+Chatbot: The application deadlines for SIT vary depending on the specific program and intake. Here are some key periods:
+
+General Application Period: Typically from early January to mid-March.
+Acceptance Window: Offers are usually released in April to May, with a joint acceptance deadline.
+Scholarship Applications: Open concurrently with the general application period.
+For the most accurate and specific deadlines, it is best to check the SIT Admissions Portal or the official SIT website.
+
+User: What is the specific date for undergraduates?
+Chatbot: The specific application period for undergraduates at SIT typically runs from early January to mid-March. For the most precise dates, it is recommended to refer to the SIT Admissions Portal or the official SIT website, as these dates may vary slightly each year.
+
+User: Provide me a specific upcoming date.
+Chatbot: The upcoming application period for SIT undergraduate programs is from 8 January to 19 March 2025.
+
+User: What is the course link for Electronics and Data Engineering?
+Chatbot: You can find more information about the BEng (Hons) in Electronics and Data Engineering program at SIT by visiting the following link: Electronics and Data Engineering Course.
+
+User: What is the total course fee for all the credits in this course?
+Chatbot: To calculate the total course fee for the BEng (Hons) in Electronics and Data Engineering, you need to know the total number of credits required for the course and the cost per credit.
+
+If you provide me with the number of credits and the cost per credit, I can calculate the total cost for you. Alternatively, if this information is available on the course page, you can use the formula:
+
+Total Cost
+=
+Total Number of Credits
+×
+Cost per Credit
+Total Cost=Total Number of Credits×Cost per Credit
+User: Provide me the calculated amount.
+Chatbot: For the BEng (Hons) in Electronics and Data Engineering, the total cost can be calculated as follows:
+
+Total Credits: 240
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+Non-Subsidised Fee per Credit (including GST): $661.63
+For Singapore Citizens:
+
+Total Cost
+=
+240
+ 
+credits
+×
+173.00
+ 
+per credit
+=
+41
+,
+520
+ 
+SGD
+Total Cost=240credits×173.00per credit=41,520SGD
+For Non-Subsidised (including GST):
+
+Total Cost
+=
+240
+ 
+credits
+×
+661.63
+ 
+per credit
+=
+158
+,
+791.20
+ 
+SGD
+Total Cost=240credits×661.63per credit=158,791.20SGD
+These calculations provide the total course fee based on the type of fee applicable.
+
+User: What is an email for admissions that I can contact?
+Chatbot: For undergraduate admissions inquiries at SIT, you can contact the admissions office via email at: Adm@SingaporeTech.edu.sg.

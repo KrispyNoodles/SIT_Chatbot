@@ -1,0 +1,58 @@
+User:
+Hello!! Welcome to this chatbot.
+What is SIT's vision?
+
+Chatbot:
+SIT's vision is to be a key university in Singapore that lives and breathes industry. It aims for its students and alumni, collectively known as SITizens, to be thinking tinkerers, lifelong learners, and catalysts for transformation who care for the community and stay connected to SIT and their fellow SITizens.
+
+SIT's goals include:
+
+Applied Learning
+Strong Alumni Network
+Symbiotic Partnership with Industry and Community
+Applied Research & Innovation
+Strategic University Partners
+People-oriented Culture
+A Living Lab
+User:
+What is the application deadline for the undergrad programme at SIT, the exact date?
+
+Chatbot:
+The application period for SIT's undergraduate programmes is from December 16, 2024, to January 15, 2025.
+
+User:
+Can you give me the link to the course page for Electronics and Data Engineering?
+
+Chatbot:
+You can find more information about the Bachelor of Engineering with Honours in Electronics and Data Engineering, a programme jointly offered by SIT and the Technical University of Munich, on their official course page.
+
+Here is the link to the course page: Electronics and Data Engineering at SIT.
+
+User:
+Can you tell me the total course fee for this course?
+
+Chatbot:
+The total course fee for the Bachelor of Engineering with Honours in Electronics and Data Engineering at SIT is calculated based on the number of credits and the fee per credit.
+
+Here are the details:
+
+Total Credits: 240
+Subsidised Fee per Credit for Singapore Citizens: $173.00
+Non-Subsidised Fee per Credit (including GST): $661.63
+To calculate the total course fee:
+
+For Singapore Citizens:
+bash
+Copy code
+240 credits × $173.00 = $41,520
+For Non-Subsidised Fee:
+bash
+Copy code
+240 credits × $661.63 = $158,791.20
+You can find more information on the course page here: Electronics and Data Engineering at SIT.
+
+User:
+Can you give me an email that I can use to reach out to the team about the admission process?
+
+Chatbot:
+You can reach out to the SIT admissions team regarding the undergraduate admission process at the following email address: Adm@SingaporeTech.edu.sg.

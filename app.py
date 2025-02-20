@@ -7,7 +7,7 @@ from langchain_core.runnables import RunnableLambda
 from prompts import system_prompt
 from tools.redis_tool import redis_tool
 from tools.google_tool import google_tool
-from config import model
+from config import model, tool_usage_log
 from utils import summary_fn
 
 
@@ -30,6 +30,18 @@ agent_executor = create_react_agent(model, tools, checkpointer=memory, debug=Fal
 # declaration of system prompt
 messages =  [SystemMessage(content=system_prompt)]
 
+# tool is used when to see which tools are being used
+@cl.step(type="tool")
+async def tool():
+    
+    if tool_usage_log:
+        tool_info = tool_usage_log[-1]
+        return tool_info
+    
+    else:
+        tool_info =("No tool usage at all.")
+        return tool_info
+    
 # on_chat_start decorator is used when the chat bot has started
 @cl.on_chat_start
 async def on_chat_start():
@@ -59,7 +71,8 @@ async def on_message(message: cl.Message):
 
     # checking if the result is an AIMessage, to be printed by the UI
     if isinstance(result, AIMessage):
-        print(result.content)
+        
+        await tool()
         await cl.Message(content=result.content).send()
         
         # appending the result

@@ -41,21 +41,25 @@ class VerboseCallbackHandler(AsyncCallbackHandler):
                                 
         # Extract tool name and query if a tool call exists
         if len(tool_calls) > 0:
-            tool_name = tool_calls[0]['function']['name']
-            arguments = json.loads(tool_calls[0]['function']['arguments'])  # Use json.loads instead of eval
-
-            if 'query' in arguments:
-                query = arguments['query']
-                output_text = f'The tool being called is "{tool_name}" and the query fed into it is "{query}"'
-                tool_usage_log.append(output_text)
-                tool_calls.clear()
             
-            elif '__arg1' in arguments:  # Checking for Google Search argument
-                search = arguments['__arg1']
-                output_text = f'The tool being called is "{tool_name}" and the query fed into it is "{search}"'
-                tool_usage_log.append(output_text)
-                tool_calls.clear()
+            # Process each tool call
+            for tool_call in tool_calls:
                 
+                tool_name = tool_call['function']['name']
+                arguments = json.loads(tool_call['function']['arguments'])  # Use json.loads instead of eval
+                
+                if 'query' in arguments:
+                    query = arguments['query']
+                    output_text = f"🔹 **{tool_name}** \n - {query} \n\n"
+                
+                elif '__arg1' in arguments:  # Checking for Google Search argument
+                    search = arguments['__arg1']
+                    output_text = f"🔹 **{tool_name}** \n - {search} \n\n"
+
+                tool_usage_log.append(output_text)
+                
+            tool_calls.clear()
+            
         else:
             tool_usage_log.clear()
             tool_calls.clear()
@@ -65,6 +69,13 @@ model = ChatOpenAI(
     api_key=env_vars["OPENAI_API_KEY"],
     model="gpt-4o",
     callbacks=[VerboseCallbackHandler()],
+    temperature=0
+)
+
+# declaring the model and using the variables from the env file
+mini_model = ChatOpenAI(
+    api_key=env_vars["OPENAI_API_KEY"],
+    model="gpt-4o-mini",
     temperature=0
 )
 

@@ -110,3 +110,35 @@ def sticker_prompt(content):
         - Choose only from: [smiling_eyes], [victory_hands], [perfect], [graduation], [happy], [smiling], [neutral], [curious], [informative], [descriptive], [confused].               
     
     """
+
+def get_suggestion_prompt(message):
+    return f"""
+    You are an AI assistant specializing in answering questions related to the **Singapore Institute of Technology (SIT)**.
+
+    **Your Role:**
+    - Suggest **two relevant follow-up questions** that the user **could** ask next, based on the chatbot's latest response.
+    - Focus on queries that **align with the chatbot’s capabilities**, such as:
+      - **Admissions, courses, course fees, events, student services**  
+      - **SIT policies, events, and important deadlines**  
+      - **Finding information from the SIT website via Google search**  
+
+    **Chatbot's Last Response:** '{message}'
+
+    **Task:**
+    Generate **three distinct, well-formed user queries** that logically follow from the chatbot’s response.  
+
+    **Format the output as:**  
+    1. [First suggested user query]
+    2. [Second suggested user query]
+    """
+
+default_suggestions = ["What courses does SIT offer?", "Can you tell me about student life at SIT?"]
+
+welcome_message="""
+**Hello! How can I assist you today? 🤖🎓**
+I’m here to help with any questions related to Singapore Institute of Technology (SIT).
+
+💡 Ask about SIT courses, admissions, or campus life
+📅 Check important dates and deadlines
+🔍 Need more details? I can search the SIT website for official information!
+"""

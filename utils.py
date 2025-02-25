@@ -59,13 +59,13 @@ def emoji_printer(sticker_response, chat_id):
 
 
 from prompts import system_prompt, summary_prompt
-from config import model
+from config import mini_model
 from langchain_core.messages import SystemMessage
 
 def summary_fn(messages):
     
     # length of conversation before the function is used
-    summary_len = 6
+    summary_len = 4
 
     if len(messages)>=summary_len:
 
@@ -75,7 +75,7 @@ def summary_fn(messages):
         messages[0] = summary_prompter
         
         # creating a summary from the llm
-        summary = model.invoke(messages)
+        summary = mini_model.invoke(messages)
         
         print(f"summary_function called, summary is: {summary.content}")
         
@@ -87,3 +87,12 @@ def summary_fn(messages):
     
     else:
         return messages
+
+# creating buttons for the chatbot
+import chainlit as cl
+def generate_actions(suggestions):
+    """Generate exactly 2 action buttons dynamically."""
+    return [
+        cl.Action(name="action_button_1", value=suggestions[0], label=suggestions[0]),
+        cl.Action(name="action_button_2", value=suggestions[1], label=suggestions[1]),
+    ]

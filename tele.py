@@ -1,7 +1,7 @@
 from langchain_core.messages import HumanMessage, AIMessage
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import create_react_agent
-from config import model
+from config import model, mini_model
 from tools.redis_tool import redis_tool
 from tools.google_tool import google_tool
 from utils import get_user_config, emoji_printer, summary_fn
@@ -53,7 +53,7 @@ def handle_all_messages(message):
         print(f"User: {config['configurable']['thread_id']} \n query: {message.text} \n answer: {result.content} \n length of convo: {len(config['configurable']['message_history'])}")
 
         # creating a model that returns an emotions
-        sticker_response = model.invoke([HumanMessage(content=sticker_prompt(result.content))])
+        sticker_response = mini_model.invoke([HumanMessage(content=sticker_prompt(result.content))])
 
         # printing the result through telegram
         bot.send_message(message.chat.id, result.content, reply_to_message_id=message.message_id )

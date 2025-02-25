@@ -65,7 +65,7 @@ from langchain_core.messages import SystemMessage
 def summary_fn(messages):
     
     # length of conversation before the function is used
-    summary_len = 4
+    summary_len = 6
 
     if len(messages)>=summary_len:
 

@@ -125,7 +125,7 @@ def get_suggestion_prompt(message):
     **Chatbot's Last Response:** '{message}'
 
     **Task:**
-    Generate **three distinct, well-formed user queries** that logically follow from the chatbot’s response.  
+    Generate **two distinct, well-formed user queries** that logically follow from the chatbot’s response.  
 
     **Format the output as:**  
     1. [First suggested user query]

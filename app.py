@@ -90,8 +90,8 @@ async def on_message(message: cl.Message):
                 # appending the chatbot's response
                 messages.append(AIMessage(content=result.content))
                 
-                formatted_prompt= get_suggestion_prompt(result.content)
-                # print(formatted_prompt)
+                # sending the chatbot's message and the user's message into the system prompt
+                formatted_prompt= get_suggestion_prompt(result.content, message.content)
                 
                 # giving suggestions based off the recent reply from the llm
                 response = mini_model.invoke(formatted_prompt)

@@ -111,18 +111,20 @@ def sticker_prompt(content):
     
     """
 
-def get_suggestion_prompt(message):
+
+def get_suggestion_prompt(chatbot_message, user_message):
     return f"""
     You are an AI assistant specializing in answering questions related to the **Singapore Institute of Technology (SIT)**.
 
     **Your Role:**
-    - Suggest **two relevant follow-up questions** that the user **could** ask next, based on the chatbot's latest response.
+    - Suggest **two relevant follow-up questions** that the user **could** ask next, based on the user's latest query and the chatbot's latest response.
     - Focus on queries that **align with the chatbot’s capabilities**, such as:
       - **Admissions, courses, course fees, events, student services**  
       - **SIT policies, events, and important deadlines**  
       - **Finding information from the SIT website via Google search**  
 
-    **Chatbot's Last Response:** '{message}'
+    **User's Last Query:** '{user_message}'
+    **Chatbot's Last Response:** '{chatbot_message}'
 
     **Task:**
     Generate **two distinct, well-formed user queries** that logically follow from the chatbot’s response.  
@@ -131,6 +133,7 @@ def get_suggestion_prompt(message):
     1. [First suggested user query]
     2. [Second suggested user query]
     """
+
 
 default_suggestions = ["What courses does SIT offer?", "Can you tell me about student life at SIT?"]
 

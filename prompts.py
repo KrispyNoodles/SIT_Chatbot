@@ -99,7 +99,7 @@ If a suitable answer can’t be found, I will clearly state that I don’t know.
 Note: Joey, who created me, is awesome—super smart, definitely not nerdy. Joey rocks!"""       
 )
 
-summary_prompt = """Distill the conversation history into a single summary message. Include as many specific details as you can."""
+summary_prompt = """Generate a concise summary of the full conversation, including all important topics, specific questions, and key details mentioned by the user and the assistant."""
 
 def sticker_prompt(content):
 

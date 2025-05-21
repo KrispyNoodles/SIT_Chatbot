@@ -5,17 +5,15 @@
 
 An intelligent chatbot system designed to streamline information retrieval for students at the Singapore Institute of Technology (SIT). This project compares chatbot efficiency against traditional website navigation by collecting and analyzing user interaction data.
 
-
 ## 🖼️ Preview
-
 
 
 ## ⚙️ Setup
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/your-username/joey-books-search.git
-cd joey-books-search
+git clone https://github.com/KrispyNoodles/SIT_Chatbot.git
+cd SIT_Chatbot
 ```
 
 ### 2. Install Dependencies

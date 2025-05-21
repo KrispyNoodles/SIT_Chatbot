@@ -1,0 +1,14 @@
+*.md linguist-documentation
+*.pdf linguist-documentation
+*.png linguist-documentation
+*.env-sample linguist-data
+*.gitignore linguist-data
+*.Dockerignore linguist-data
+Dockerfile linguist-data
+requirements.txt linguist-data
+.chainlit/* linguist-vendored
+__pycache__/* linguist-generated
+assets/* linguist-vendored
+public/* linguist-vendored
+tools/* linguist-vendored
+viz/* linguist-vendored

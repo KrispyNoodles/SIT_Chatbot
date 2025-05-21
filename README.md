@@ -31,17 +31,3 @@ chainlit run app.py
 ```
 
 Now open http://localhost:3000 to use the app.
-
-
-# 📁 Project Structure
-``` Python
-google-books-search
-/src/app/
-  ├─ page.js                      → Home (search page)
-  └─ /book/[id]/page.js           → Book Page
-/public/
-  ├─ website_logo.png             → App logo
-  └─ website_search_button.png    → Search Button logo
-.env                              → Environment variables
-favicon.ico                       → Favicon Logo
-```

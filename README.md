@@ -1,6 +1,5 @@
 # 📂 Introduction
-
-An intelligent chatbot system designed to streamline information retrieval for students at the Singapore Institute of Technology (SIT). This project compares chatbot efficiency against traditional website navigation by collecting and analyzing user interaction data.
+An intelligent chatbot system built using Large Language Models (LLM) and Retrieval Augemeneted Generation (AUG) to streamline information retrieval from the Singapore Institute of Technology (SIT) website. This project compares chatbot efficiency against traditional website navigation by collecting and analyzing user interaction data.
 
 ## 🖼️ Preview
 

@@ -37,3 +37,20 @@ python tele.py
 ```
 
 Now open http://localhost:8000 to use the chainlit app.
+
+## 🐳 Containerization
+This project can be containerized using Docker for easy deployment.
+
+### Create the docker image
+Run the following command in the root directory of the project to build the Docker image:
+
+``` bash
+docker build -t sit-chatbot .
+```
+
+### Run the docker file
+Once the image is built, you can run the container using:
+
+``` bash
+docker run --env-file .env sit-chatbot
+```

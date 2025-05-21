@@ -23,10 +23,16 @@ pip install -r requirements.txt
 
 ### 3. Configure Your .env File, use the .env-sample as a reference of which variables to be adjusted
 
-### 4. Run the Application
+### 4. Run the Application (Chainlit)
 
 ``` bash
 chainlit run app.py
+```
+
+### 4. Run the Application (Telegram)
+
+``` bash
+python app.py
 ```
 
 Now open http://localhost:3000 to use the app.

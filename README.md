@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/02669964-06f3-4ee4-9f02-b29e5ba4b466" alt="image" width="500"/>
-
 # 📂 Introduction
 
 An intelligent chatbot system designed to streamline information retrieval for students at the Singapore Institute of Technology (SIT). This project compares chatbot efficiency against traditional website navigation by collecting and analyzing user interaction data.

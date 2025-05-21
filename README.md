@@ -3,6 +3,8 @@ An intelligent chatbot system built using Large Language Models (LLMs) and Retri
 
 ## 🖼️ Preview
 ### Chainlit Web Application
+![Media1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b1dfe031-57ee-4bf0-97aa-010660087a68)
+
 ![BT_video_demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/29d011f5-52d0-4bad-a1a4-fb0a2524ad57)
 
 ### Telegram Chatbot

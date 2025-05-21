@@ -22,11 +22,7 @@ cd SIT_Chatbot
 pip install -r requirements.txt
 ```
 
-### 3. Configure Your .env File
-
-```python
-NEXT_PUBLIC_GOOGLE_BOOKS_API=<your_api_url>
-```
+### 3. Configure Your .env File, use the .env-sample as a reference of which variables to be adjusted
 
 ### 4. Run the Application
 

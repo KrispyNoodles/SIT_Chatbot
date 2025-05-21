@@ -4,8 +4,8 @@ An intelligent chatbot system designed to streamline information retrieval for s
 
 ## 🖼️ Preview
 
+![BT_video_demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/29d011f5-52d0-4bad-a1a4-fb0a2524ad57)
 ![BT_tele_video_demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/69070d7d-71f9-47ae-ab84-8a4faa63476b)
-
 
 ## ⚙️ Setup
 ### 1. Clone the repository
@@ -35,4 +35,4 @@ chainlit run app.py
 python tele.py
 ```
 
-Now open http://localhost:3000 to use the app.
+Now open http://localhost:8000 to use the chainlit app.
